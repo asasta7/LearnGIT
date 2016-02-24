@@ -11,7 +11,7 @@
 
     <title>About - Business Casual - Start Bootstrap Theme</title>
 
-    <!-- Bootstrap Core CSS -->
+    <!-- Bootstrap Core CSS nambah disini-->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
